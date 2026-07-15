@@ -1,0 +1,9 @@
+site_name: ACNP
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - System:
+      - Overview: system/overview.md
+  - Architecture:
+      - High Level: architecture/high_level.md
